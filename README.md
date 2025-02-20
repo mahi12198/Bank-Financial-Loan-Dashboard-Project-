@@ -52,6 +52,10 @@ Need for a comprehensive 'Details Dashboard' that provides a consolidated view o
 The primary objective of the Details Dashboard is to provide a comprehensive and user-friendly interface for accessing vital loan data. It will serve as a one-stop solution for users seeking detailed insights into our loan portfolio, borrower profiles, and loan performance.
 
 #### Queries Used in My SQL 
+<a href= "https://github.com/mahi12198/Bank-Financial-Loan-Dashboard-Project-/blob/main/Bank%20Financial%20Loan%20Project%20Dashboard.docx"> Queries in SQL </a> 
+
+#### PowerBI Report
+<a href= "https://github.com/mahi12198/Bank-Financial-Loan-Dashboard-Project-/blob/main/Bank%20Financial%20Loan%20Project%20Dashboard.docx"> PowerBI Report </a> 
 
 
 
