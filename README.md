@@ -58,7 +58,12 @@ The primary objective of the Details Dashboard is to provide a comprehensive and
 <a href= "https://github.com/mahi12198/Bank-Financial-Loan-Dashboard-Project-/blob/main/Bank%20Financial%20Loan%20Dashboard%20Project.pbix"> PowerBI Report </a> 
 
 ### Conclusion:
-Finally I did project and found some insights and created dashboards using My SQL, Excel and PowerBI. 
+Finally I did project and found some insights and created dashboards using My SQL, Excel and PowerBI.
+
+### DashBoard Images
+<a href= "https://github.com/mahi12198/Bank-Financial-Loan-Dashboard-Project-/blob/main/Bank%20Financial%20Loan%20Summary%20Dashboard.png"> Dashboard Summary </a> 
+<a href= "https://github.com/mahi12198/Bank-Financial-Loan-Dashboard-Project-/blob/main/Bank%20Financial%20Loan%20Dashboard%20Overview.png"> Dashboard Overview </a> 
+<a href= "https://github.com/mahi12198/Bank-Financial-Loan-Dashboard-Project-/blob/main/Bank%20Financial%20Loan%20Dashboard%20Details%20.png"> Dashboard Details </a> 
 
 
 
