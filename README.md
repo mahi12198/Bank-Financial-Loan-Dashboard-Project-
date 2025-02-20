@@ -6,6 +6,7 @@ Developed a Bank Financial Dashboard using MySQL, Excel, and Power BI to analyze
 ### I created three Dashboards according to the visual charts  and KPIs requirement
 
 ### Dataset Used
+<a href= "https://github.com/mahi12198/Bank-Financial-Loan-Dashboard-Project-/blob/main/Bank%20Project%20dataset.csv"> Financial Loan </a>
 
 
 ### DashBoard 1: Summary 
@@ -49,6 +50,9 @@ Metrics to be shown: 'Total Loan Applications,' 'Total Funded Amount,' and 'Tota
 Need for a comprehensive 'Details Dashboard' that provides a consolidated view of all the essential information within our loan data. This Details Dashboard aims to offer a holistic snapshot of key loan-related metrics and data points, enabling users to access critical information efficiently.
 #### Objective:
 The primary objective of the Details Dashboard is to provide a comprehensive and user-friendly interface for accessing vital loan data. It will serve as a one-stop solution for users seeking detailed insights into our loan portfolio, borrower profiles, and loan performance.
+
+#### Queries Used in My SQL 
+
 
 
 
