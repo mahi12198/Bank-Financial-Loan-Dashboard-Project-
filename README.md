@@ -1,8 +1,8 @@
 # Bank-Financial-Loan-Dashboard-Project-
-Developed a Bank Financial Dashboard using MySQL, Excel, and Power BI to analyze and visualize key financial metrics related to loan performance and risk assessment. Extracted, transformed, and loaded loan data into MySQL, performed data cleaning and aggregation in Excel, and built interactive Power BI dashboards for insights.
+Developed a Bank Financial Dashboard using MS SQL, Excel, and Power BI to analyze and visualize key financial metrics related to loan performance and risk assessment. Extracted, transformed, and loaded loan data into MySQL, performed data cleaning and aggregation in Excel, and built interactive Power BI dashboards for insights.
 
 ## Project : To find the insights from the Bank loan data according to the KPI requirement and Charts required 
-### Tools Used : I have used MySQL for cleaning, Transforming and extraction of Data and MS Excel ,PowerBI for Data cleaning , Created Charts, Graphs according to the KPI Requirements.
+### Tools Used : I have used MS SQL for cleaning, Transforming and extraction of Data and MS Excel ,PowerBI for Data cleaning , Created Charts, Graphs according to the KPI Requirements.
 ### I created three Dashboards according to the visual charts  and KPIs requirement
 
 ### Dataset Used
@@ -58,7 +58,7 @@ The primary objective of the Details Dashboard is to provide a comprehensive and
 <a href= "https://github.com/mahi12198/Bank-Financial-Loan-Dashboard-Project-/blob/main/Bank%20Financial%20Loan%20Dashboard%20Project.pbix"> PowerBI Report </a> 
 
 ### Conclusion:
-Finally I did project and found some insights and created dashboards using My SQL, Excel and PowerBI.
+Finally I did project and found some insights and created dashboards using MS SQL, Excel and PowerBI.
 
 ### DashBoard Images
 <a href= "https://github.com/mahi12198/Bank-Financial-Loan-Dashboard-Project-/blob/main/Bank%20Financial%20Loan%20Summary%20Dashboard.png"> Dashboard Summary </a>
