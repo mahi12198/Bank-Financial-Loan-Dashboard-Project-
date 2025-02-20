@@ -55,7 +55,10 @@ The primary objective of the Details Dashboard is to provide a comprehensive and
 <a href= "https://github.com/mahi12198/Bank-Financial-Loan-Dashboard-Project-/blob/main/Bank%20Financial%20Loan%20Project%20Dashboard.docx"> Queries in SQL </a> 
 
 #### PowerBI Report
-<a href= "https://github.com/mahi12198/Bank-Financial-Loan-Dashboard-Project-/blob/main/Bank%20Financial%20Loan%20Project%20Dashboard.docx"> PowerBI Report </a> 
+<a href= "https://github.com/mahi12198/Bank-Financial-Loan-Dashboard-Project-/blob/main/Bank%20Financial%20Loan%20Dashboard%20Project.pbix"> PowerBI Report </a> 
+
+### Conclusion:
+Finally I did project and found some insights and created dashboards using My SQL, Excel and PowerBI. 
 
 
 
